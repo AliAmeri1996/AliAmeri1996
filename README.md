@@ -1,6 +1,8 @@
 ## Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+Hi, I’m Ali — a Computer Science student at Durham University. I'm interested in Python and webdeveloping.
+- 🔭 I’m currently working on developing a web application that converts live sound to text, using FastAPI for the backend.
+- 🌱 I’m currently learning FastAPI
+-  🌱 I recently built a responsive single-page web app using Node.js, Express, HTML, CSS, and JavaScript, check it out [here](https://github.com/AliAmeri1996/Web-developing)
 
 
 
